@@ -13,7 +13,7 @@ This project is a simple **Digital Clock** built using HTML, CSS, and JavaScript
 - **JavaScript**: Logic to update the clock in real-time.
 
 ## Screenshots
-![Digital Clock Screenshot](image/screenshort.png)
+![Digital Clock Screenshot](images/screenshort.png)
 
 ## Customization
 - Modify the colors in the style.css file to match your preferences.
