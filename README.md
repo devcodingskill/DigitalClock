@@ -11,7 +11,9 @@ This project is a simple **Digital Clock** built using HTML, CSS, and JavaScript
 - **HTML**: Structure of the clock.
 - **CSS**: Styling and layout, including pseudo-elements for decoration.
 - **JavaScript**: Logic to update the clock in real-time.
-
+## Live Demo
+You can view the live demo of the project here:
+[Digital Clock](https://devcodingskill.github.io/DigitalClock/)
 ## Screenshots
 ![Digital Clock Screenshot](images/screenshot.png)
 
